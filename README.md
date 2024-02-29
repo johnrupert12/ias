@@ -1,1 +1,1 @@
-yes
+<stdio.h>
